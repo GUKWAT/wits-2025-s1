@@ -55,7 +55,7 @@ The project does NOT need a timetabling capability. It acts as a cheat sheet for
 - Adrian Gould [AdyGCode](https://github.com/AdyGCode) (Consulting Senior Dev)
 - Corin Little [ExternalP](https://github.com/ExternalP) (Developer)
 - Luis Alvarez [luis199521](https://github.com/luis199521) (Developer)
-- Given Name [GITHUB USERNAME](https://github.com/GITHUB_USERNAME) (Developer)
+- Tadiwanashe Gukwa [GUKWAT](https://github.com/GUKWAT) (Developer)
 - Given Name [GITHUB USERNAME](https://github.com/GITHUB_USERNAME) (Developer)
 
 
